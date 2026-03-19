@@ -1,0 +1,15 @@
+.page {
+  padding: 20px;
+}
+
+.search {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
