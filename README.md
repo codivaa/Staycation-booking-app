@@ -52,4 +52,4 @@ npm run dev
 
 ## Author
 
-Angie Ninthh
+Sassera Angel
